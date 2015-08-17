@@ -1,0 +1,21 @@
+{
+  "name": "icron/yii-dynamic-model",
+  "description": "DynamicModel is a model class primarily used to support ad hoc data validation",
+  "keywords": ["yii", "extension", "model", "dynamic", "validation"],
+  "homepage": "https://github.com/icron/yii-dynamic-model",
+  "type": "library",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Alexander Lukyanchikov",
+      "email": "mentor@icron.org"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/icron/yii-dynamic-model/issues?state=open",
+    "source": "https://github.com/icron/yii-dynamic-model"
+  },
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
